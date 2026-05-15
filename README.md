@@ -7,4 +7,4 @@ System Health is a simple CMD script that automatically runs DISM commands and d
 3. Sit back and relax  
 
 > [!NOTE]
-> The script usually takes 5-10 minutes to finished depending on hardware
+> The script usually takes 5-10 minutes to finish depending on hardware
